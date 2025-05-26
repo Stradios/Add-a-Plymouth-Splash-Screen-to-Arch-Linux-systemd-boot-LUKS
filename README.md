@@ -1,6 +1,4 @@
-Here's the formatted `README.md` file for GitHub:
-
-```markdown
+markdown
 # � Arch Linux Plymouth Splash Screen (systemd-boot + LUKS)
 
 Add a graphical Plymouth splash screen to Arch Linux for a polished boot experience. This guide covers setup for systems using:
