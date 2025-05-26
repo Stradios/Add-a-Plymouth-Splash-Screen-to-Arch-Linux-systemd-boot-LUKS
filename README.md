@@ -1,4 +1,3 @@
-markdown
 #  🎨 Add a Plymouth Splash Screen to Arch Linux (systemd-boot + LUKS)
 
 Add a graphical Plymouth splash screen to Arch Linux for a polished boot experience. This guide covers setup for systems using:
